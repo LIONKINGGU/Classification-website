@@ -1,0 +1,12 @@
+﻿Numof Clicks,Mins spent,Frequency,Device,Timestamp,Location,Catergory
+1,20,3,Phone,00.00.12,Berlin,sport based
+2,35,2,Phone,00.01.00,Berlin,sport based
+3,15,3,Phone,00.03.00,Berlin,sport based
+1,10,3,Phone,00.40.00,Berlin,sport based
+2,25,1,Phone,00.23.01,munich,sport based
+2,12,4,laptops,00.02.22,munich,Artistic
+2,15,3,laptops,00.10.11 ,munich,Artistic
+2,16,6,laptops,00.10.12,munich,Artistic
+2,5,9,laptops,00.10.13,munich,cinematic
+2,8,3,tablet,00.10.14,Lagos,cinematic
+2,18,4,tablet,00.10.15,Lagos,cinematic
